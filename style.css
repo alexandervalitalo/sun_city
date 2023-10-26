@@ -9,10 +9,14 @@ h2 {
 
 p {
     text-align: left;
-} 
+}
 
 .carousel {
     margin-bottom: 20px;
+ }
+
+ .container-space {
+    margin-bottom: 7rem;
  }
 
  #apartment-p {
